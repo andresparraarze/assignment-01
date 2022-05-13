@@ -41,21 +41,24 @@ body {
     list-style-type: none;
 }
 
-
+/*Positioning of the header, div, ul and li*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Text color and decoration*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Font size of p*/
 p {
     font-size: 16px;
 }
 
+/*Image of a digital marketing meeting with its specifications*/
 .hero {
     height: 800px;
     width: 100%;
@@ -65,22 +68,26 @@ p {
     background-position: center;
 }
 
+/*Image search engine optimization location and margin*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Image online reputation management location and margin*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Content display setting with width and margin*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/**/
 .benefits {
     margin-right: 20px;
     padding: 20px;
